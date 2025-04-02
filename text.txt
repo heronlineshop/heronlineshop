@@ -1,0 +1,10 @@
+Heronlineshop/
+├── client/                  ← فرانت React + Vite + Tailwind
+├── server/                  ← بک Node.js + Express + MongoDB
+├── HeronlineshopMobile/     ← اپ موبایل React Native + Expo
+├── docs/                    ← مستندات
+│   ├── README.md
+│   └── API_DOC.md
+├── installables/            ← فایل‌های APK, AAB, IPA
+│   ├── Heronlineshop.apk
+│   └── Heronlineshop.aab
